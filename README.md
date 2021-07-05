@@ -11,9 +11,9 @@ https://lusion.co/ (Sound alert) <br />
 https://www.martinehrlich.com/ <br />
 
 ## Personal Blogs && Portfolio
-http://clagnut.com/ Richard Rutter. <br />
-https://daverupert.com/ Dave Rupert. <br />
-https://stuffandnonsense.co.uk/ Andy Clarke. <br />
+http://clagnut.com/ <br />
+https://daverupert.com/ <br />
+https://stuffandnonsense.co.uk/ <br />
 https://blog.klipse.tech/ <br />
 https://cagdasunal.com/ <br />
 https://a-project.co/ <br />
