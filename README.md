@@ -17,6 +17,8 @@ https://stuffandnonsense.co.uk/ <br />
 https://blog.klipse.tech/ <br />
 https://cagdasunal.com/ <br />
 https://a-project.co/ <br />
+https://acko.net/ <br />
+http://craig-roush-portfolio-template.webflow.io/ <br />
 
 ## Store
 https://letslevitate.com <br />
@@ -35,6 +37,16 @@ https://mcbridedesign.com/ <br />
 https://closer.game/ <br />
 https://wepresent.wetransfer.com/ <br />
 https://www.wemadethis.co.uk/ <br />
+https://www.oracle.com/ <br />
+https://turbulent.ca/ <br />
+https://zen.ly/ <br />
+https://weedensenteret.no/ <br />
+https://solutions.centogene.com/ <br />
+https://thirdbykenjiro.com/en <br />
+https://www.purrweb.com/ <br />
+
+## Education
+https://ui.dev/ <br />
 
 ## Forums, Community
 https://javascript.works-hub.com/ <br />
