@@ -23,7 +23,6 @@ https://solutions.centogene.com/ <br />
 https://thirdbykenjiro.com/en <br />
 https://10ideesrecuesenuxdesign.castoretpollux.com/en/ <br />
 
-
 <h3>Blogs</h3>
 https://acko.net/ <br />
 https://stuffandnonsense.co.uk/ <br />
@@ -31,10 +30,8 @@ http://clagnut.com/ <br />
 https://daverupert.com/ <br />
 https://cagdasunal.com/ <br />
 
-
-<h3>Classics</h3>
+<h3>Normal But Beautiful</h3>
 https://www.oracle.com/ <br />
-https://a-project.co/ <br />
 http://craig-roush-portfolio-template.webflow.io/ <br />
 https://letslevitate.com <br />
 https://purpose.nike.com/ <br />
@@ -53,5 +50,5 @@ https://www.tbhcreative.com/ <br />
 https://99designs.com/ <br />
 https://mastery.games/ <br />
 https://howmanyplants.com/plant-guides <br />
-
+https://www.componentdriven.org/
 
