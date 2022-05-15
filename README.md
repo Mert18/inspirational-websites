@@ -25,6 +25,7 @@ https://10ideesrecuesenuxdesign.castoretpollux.com/en/ <br />
 
 <h3>Blogs</h3>
 https://acko.net/ <br />
+https://michaelsalim.co.uk/ <br />
 https://stuffandnonsense.co.uk/ <br />
 http://clagnut.com/ <br />
 https://daverupert.com/ <br />
