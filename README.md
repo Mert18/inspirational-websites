@@ -30,7 +30,7 @@ https://michaelsalim.co.uk/ <br />
 https://stuffandnonsense.co.uk/ <br />
 http://clagnut.com/ <br />
 https://daverupert.com/ <br />
-https://cagdasunal.com/ <br />
+https://pomb.us/build-your-own-react/ <br />
 
 <h3>Normal But Beautiful</h3>
 https://www.oracle.com/ <br />
