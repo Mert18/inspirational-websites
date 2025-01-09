@@ -44,7 +44,6 @@ https://z.lighting/de/group/unternehmen/ <br />
 https://www.saga-digital.com/ <br />
 https://boostylabs.com/ <br />
 https://cope.gr/en/home-en/ <br />
-https://www.cn100.ca/en/ <br />
 https://wepresent.wetransfer.com/ <br />
 https://www.purrweb.com/ <br />
 https://github.com/readme/podcast <br />
@@ -58,4 +57,5 @@ https://www.componentdriven.org/ <br />
 https://www.fontshare.com/ <br />
 https://fly.io/blog/ <br />
 https://www.finout.io/ <br />
+https://internet.dev/
 
